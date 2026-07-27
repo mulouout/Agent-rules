@@ -1,0 +1,8 @@
+{
+  "project_root": "[你的项目根目录绝对路径，由 AI 自动填充]",
+  "initialized_at": "[初始化日期，由 AI 自动填充]",
+  "rules_version": "v1.0",
+  "sensitive_auth": {
+    "note": "敏感信息授权状态。路径变化时自动重置。"
+  }
+}
